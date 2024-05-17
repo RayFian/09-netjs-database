@@ -45,3 +45,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![alt text](image.png)
 
 Vercel.com is a platform to deploy Next.Js project that will help us through their tools and features
+
+## Soal 2
+![alt text](image-1.png)
+
+Throughout vercel.xom we could create the database and also local environment into our project
