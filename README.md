@@ -72,3 +72,5 @@ in Vercel we could done query syntax to gain information from the data we have i
 ## Soal 7
 ![alt text](image-7.png)
 
+![alt text](image-8.png)
+
