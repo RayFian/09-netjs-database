@@ -68,3 +68,7 @@ in Vercel we could done query syntax to gain information from the data we have i
 ![alt text](image-6.png)
 
 ![alt text](image-3.png)
+
+## Soal 7
+![alt text](image-7.png)
+
