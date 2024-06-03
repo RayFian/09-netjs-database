@@ -62,6 +62,9 @@ The table created succesfully on the postgrest database
 in Vercel we could done query syntax to gain information from the data we have in our database
 
 ## Soal 5
+![alt text](image-5.png)
+
+## Soal 6
+![alt text](image-6.png)
+
 ![alt text](image-3.png)
-
-
