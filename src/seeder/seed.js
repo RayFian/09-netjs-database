@@ -1,10 +1,10 @@
-const { db } = require('@vercel/postgres');
+{const { db } = require('@vercel/postgres');
 const {
   invoices,
   customers,
   revenue,
   users,
-} = require('data.js');
+} = require('./data.js');
 const bcrypt = require('bcrypt');
 
 async function seedUsers(client) {
@@ -176,4 +176,4 @@ main().catch((err) => {
     'An error occurred while attempting to seed the database:',
     err,
   );
-});
+});}
