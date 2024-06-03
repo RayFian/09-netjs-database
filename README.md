@@ -50,3 +50,16 @@ Vercel.com is a platform to deploy Next.Js project that will help us through the
 ![alt text](image-1.png)
 
 Throughout vercel.xom we could create the database and also local environment into our project
+
+## Soal 3
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+The table created succesfully on the postgrest database
+
+## Soal 4
+![alt text](image-4.png)
+
+in Vercel we could done query syntax to gain information from the data we have in our database
+
