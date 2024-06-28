@@ -74,3 +74,10 @@ in Vercel we could done query syntax to gain information from the data we have i
 
 ![alt text](image-8.png)
 
+# Week 10
+
+## Soal 1 & 2
+![alt text](image-9.png)
+
+Login error on importing
+
